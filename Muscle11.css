@@ -1,0 +1,29 @@
+<style text/css>
+@media screen and (max-width: 600px) {
+.back2{
+min-height: 300px;
+}
+}
+@media screen and (min-width: 600px) and (max-width: 1080px) {
+         .wid1 {
+         width: 10%;
+}
+.wid2 {
+         width: 10%;
+}
+}
+@media screen and (min-width: 1080px) {
+.wid3 {
+         width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+.back1 {
+background-image: url('https://www.ehplabs.com/index.php/ehplabsc_admin/cms_wysiwyg/directive/___directive/e3ttZWRpYSB1cmw9Ind5c2l3eWcvZWhwbGFicy9FSFBMYW5kaW5nUGFnZXMvQmFja2dyb3VuZC1HcmV5LmpwZyJ9fQ,,/key/a438e9a12936a48aa6a0a5c906d202cc/');
+}
+.back2 {
+	    line-height: 1.2;
+background-image: url('https://www.ehplabs.com/index.php/ehplabsc_admin/cms_wysiwyg/directive/___directive/e3ttZWRpYSB1cmw9Ind5c2l3eWcvZWhwbGFicy9FSFBMYW5kaW5nUGFnZXMvU3VwcGxlbWVudHNfQ29tcGxpbWVudF9MaWZlc3R5bGUyLmpwZyJ9fQ,,/key/a438e9a12936a48aa6a0a5c906d202cc/');
+}
+</style>
